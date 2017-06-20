@@ -1,3 +1,8 @@
+#Bug Collector  
+#CTI 110 M4HW1 -Bug Collector  
+#6/20/17
+#Syed
+
 totalDays = 5
 totalNumber0fBugs = 0
 
